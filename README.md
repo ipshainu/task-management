@@ -4,13 +4,15 @@
 
 1. Clone the repository:
     ```bash
-    git clone git clone https://github.com/ipshainu/task-management.git
+    git clone https://github.com/ipshainu/task-management.git
     cd CRM-System
     ```
 
 2. Install dependencies:
     ```bash
     composer install
+    npm install
+    npm run build
     ```
 
 3. Set up the environment file:
